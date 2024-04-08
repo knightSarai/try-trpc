@@ -1,11 +1,9 @@
-import NxWelcome from './nx-welcome';
-
 export function App() {
-  return (
-    <div>
-      <NxWelcome title="try-trpc" />
-    </div>
-  );
+    return (
+        <div>
+            Hello
+        </div>
+    );
 }
 
 export default App;
