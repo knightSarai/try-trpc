@@ -1,0 +1,10 @@
+{
+  "name": "try-trpc-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/try-trpc-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["try-trpc"],
+  "// targets": "to see all targets run: nx show project try-trpc-e2e --web",
+  "targets": {}
+}
